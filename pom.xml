@@ -121,5 +121,6 @@
 		<module>moquette-parser</module>
 		<module>moquette-broker</module>
 		<module>moquette-client</module>
+		<module>moquette-bundle</module>
 	</modules>
 </project>
